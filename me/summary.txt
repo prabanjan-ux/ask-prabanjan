@@ -1,0 +1,7 @@
+I am a Computer Science and Engineering undergraduate at REVA University with a strong foundation in Data Structures, Artificial Intelligence, and Machine Learning. I am passionate about building intelligent, real-world applications that combine AI with scalable backend systems.
+
+I have hands-on experience developing AI-powered and full-stack applications using Python, Flask, and modern web technologies. My projects include a Legal Document Simplifier using NLP and LLMs for converting complex legal text into user-friendly language, a Healthcare Management Platform with OCR-based prescription analysis and medication tracking, and a YouTube Sentiment Analysis system using PySpark and NLP techniques for real-time data insights.
+
+I have also built database-driven platforms such as a Cruise Management and Booking System with role-based access and secure backend integration. My technical skill set includes Machine Learning frameworks (Scikit-learn, TensorFlow, PyTorch), data analysis tools (Pandas, NumPy, PySpark), and LLM technologies such as RAG, LangChain, and Hugging Face for building intelligent agents.
+
+I am an active learner and hackathon participant, continuously exploring advancements in AI, Generative AI, and system design. I aim to build impactful solutions that bridge the gap between theoretical knowledge and real-world applications, with a focus on creating scalable, intelligent, and user-centric systems.
